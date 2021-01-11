@@ -4,3 +4,6 @@ console.log("hey");
 console.log('hay');
 console.log("hello");
 console.log("pc master race");
+if (something) {
+  doThis();
+}
